@@ -1,2 +1,3 @@
-# cryptoplaza-web
+# Cryptoplaza Web
+
 Websites for CryptoPlaza
